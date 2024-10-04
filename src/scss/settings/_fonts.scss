@@ -2,12 +2,12 @@
 // В этом файле подключаются все шрифты через font-face, и задаются основные настройки типографики
 // -----------------------------------------------------------------------------
 
-@include font-face("Roboto", "../assets/fonts/Roboto/Roboto-Light", 300);
-@include font-face("Roboto", "../assets/fonts/Roboto/Roboto-Regular", 400);
-@include font-face("Roboto", "../assets/fonts/Roboto/Roboto-Medium", 500);
-@include font-face("Roboto", "../assets/fonts/Roboto/Roboto-Bold", 700);
+@include font-face("Mulish", "../assets/fonts/Mulish/Mulish-Light", 300);
+@include font-face("Mulish", "../assets/fonts/Mulish/Mulish-Regular", 400);
+@include font-face("Mulish", "../assets/fonts/Mulish/Mulish-Medium", 500);
+@include font-face("Mulish", "../assets/fonts/Mulish/Mulish-Bold", 700);
 
-$font-default: "Roboto", sans-serif; // Семейство по умолчанию
+$font-default: "Mulish", sans-serif; // Семейство по умолчанию
 
 /* Размеры заголовков */
 $font__title--large: 64px;

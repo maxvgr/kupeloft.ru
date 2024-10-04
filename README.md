@@ -1,4 +1,4 @@
-# Стартовый шаблон для верстки (Webpack)
+# Стартовый шаблон для верстки (Webpack) kupeloft.ru
 
 ## Навигация
 
@@ -19,7 +19,7 @@
 
 Клонируем репозиторий себе на компьютер:
 ```sh
-git clone https://github.com/acr0matic/boilerplate
+git clone https://github.com/maxvgr/kupeloft.ru
 ```
 
 Переходим в каталог с проектом:
